@@ -1,2 +1,3 @@
 "Hello Odin, you are awesome!"
-"I would like to express my deepest gratitude for the people who made Odin Project a free course and put a lot of effort and time to making it very noobie friendly and easy to understand, hands down the best course on the internet!"
+"I would like to express my deepest gratitude for the people who made Odin Project a free course and put a lot of effort and time into making it very noobie friendly and easy to understand, hands down the best course on the internet!"
+Praise the Lord!
